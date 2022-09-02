@@ -5,6 +5,7 @@ import Projects from "./pages/Projects.vue";
 <template>
 
   <main>
+<!--    Test-->
     <Projects></Projects>
   </main>
 </template>
